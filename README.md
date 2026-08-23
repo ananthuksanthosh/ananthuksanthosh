@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/ananthu-github-terminal-style.gif"
+  <img src="./ananthu-github-terminal-style.gif"
        alt="Ananthu Cybersecurity Terminal"
        width="100%">
 </p>
