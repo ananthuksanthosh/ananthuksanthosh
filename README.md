@@ -6,9 +6,9 @@
 
 <h1 align="center">Ananthu K Santhosh</h1>
 
-<h3 align="center">
-  🛡️ Cybersecurity | Ethical Hacking | Cloud Security | IoT Security
-</h3>
+<p align="center">
+  <b>🛡️ Cybersecurity • Ethical Hacking • Cloud Security • IoT Security</b>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=kalilinux&logoColor=white">
@@ -21,13 +21,14 @@
 
 ## 👋 About Me
 
-I'm a BCA student focused on building practical skills in **Cybersecurity, Ethical Hacking, Cloud Security and IoT Security**.
+I'm a **BCA student** focused on developing practical skills in **Cybersecurity, Ethical Hacking, Cloud Security and IoT Security**.
 
-I enjoy exploring how applications, networks and cloud environments work — and more importantly, how they can be secured.
+I enjoy exploring applications, networks and cloud environments to understand how they work, identify security weaknesses and build more secure systems.
 
 * 🎓 BCA Student
 * 🛡️ Cybersecurity & Ethical Hacking
-* 🔎 VAPT & Web Application Security
+* 🔎 Vulnerability Assessment & Penetration Testing
+* 🌐 Web Application Security
 * ☁️ AWS & Azure Security
 * 📡 IoT Security
 * 🐧 Linux & Network Security
@@ -36,27 +37,29 @@ I enjoy exploring how applications, networks and cloud environments work — and
 
 ## 🎯 Current Focus
 
-* 🔐 Ethical Hacking & VAPT
-* 🌐 Web Application Security
-* ☁️ AWS & Azure Security
-* 📡 IoT Security
-* 🛡️ SOC & Security Analysis
-* 🔍 Digital Forensics
-* 🐧 Linux & Network Security
+```text
+🔐 Ethical Hacking & VAPT
+🌐 Web Application Security
+☁️ AWS & Azure Security
+📡 IoT Security
+🛡️ SOC & Security Analysis
+🔍 Digital Forensics
+🐧 Linux & Network Security
+```
 
 ---
 
 ## 🛠️ Security Toolkit
 
-| Area                 | Technologies                                        |
-| -------------------- | --------------------------------------------------- |
-| 🛡️ Security         | Nmap, Burp Suite, Nikto, Gobuster, Metasploit       |
-| 🌐 Networking        | Wireshark, Nmap, Netcat, DNS tools                  |
-| ☁️ Cloud             | AWS, Azure, IAM, EC2, S3, VPC, RDS, KMS, CloudTrail |
-| 💻 Programming       | Python, JavaScript, TypeScript                      |
-| ⚙️ DevOps            | Docker, GitHub Actions, Azure DevOps, Jenkins       |
-| 🐧 Operating Systems | Kali Linux, Linux                                   |
-| 📡 IoT               | MQTT, Mosquitto, TLS, OpenSSL, Binwalk              |
+| Category             | Technologies                                                |
+| -------------------- | ----------------------------------------------------------- |
+| 🛡️ Cybersecurity    | Nmap • Burp Suite • Nikto • Gobuster • Metasploit           |
+| 🌐 Networking        | Wireshark • Nmap • Netcat • DNS Enumeration                 |
+| ☁️ Cloud             | AWS • Azure • IAM • EC2 • S3 • VPC • RDS • KMS • CloudTrail |
+| 💻 Programming       | Python • JavaScript • TypeScript                            |
+| ⚙️ DevOps            | Docker • GitHub Actions • Azure DevOps • Jenkins            |
+| 🐧 Operating Systems | Kali Linux • Linux                                          |
+| 📡 IoT Security      | MQTT • Mosquitto • TLS • OpenSSL • Binwalk                  |
 
 ---
 
@@ -66,15 +69,19 @@ I enjoy exploring how applications, networks and cloud environments work — and
 
 A role-based healthcare platform supporting patients, doctors and administrators.
 
-**Tech:** Node.js • Express.js • Prisma • MySQL • React
+**Technology Stack**
+
+`Node.js` `Express.js` `Prisma` `MySQL` `React`
 
 ---
 
 ### 🔎 Network Security Lab
 
-Hands-on networking and security experiments covering reconnaissance, enumeration, scanning and network analysis.
+Hands-on networking and security laboratory covering reconnaissance, enumeration, scanning and network analysis.
 
-**Tools:** Kali Linux • Nmap • Wireshark • Netcat • DNS Tools
+**Tools**
+
+`Kali Linux` `Nmap` `Wireshark` `Netcat` `DNS Tools`
 
 ---
 
@@ -82,7 +89,9 @@ Hands-on networking and security experiments covering reconnaissance, enumeratio
 
 Practical IoT security work involving MQTT security, TLS, ACLs, firmware analysis and embedded-device security.
 
-**Tools:** Mosquitto • OpenSSL • Wireshark • Binwalk
+**Tools**
+
+`Mosquitto` `OpenSSL` `Wireshark` `Binwalk`
 
 ---
 
@@ -90,21 +99,23 @@ Practical IoT security work involving MQTT security, TLS, ACLs, firmware analysi
 
 Hands-on AWS security implementation covering IAM, MFA, VPC, EC2, S3, RDS, CloudTrail and encryption.
 
-**Platform:** AWS
+**Platform**
+
+`AWS`
 
 ---
 
 ## 📚 Currently Learning
 
 ```text
-Ethical Hacking        ██████████████████░░
+Ethical Hacking          ██████████████████░░
 Web Application Security █████████████████░░░
-Networking             █████████████████░░░
-Linux Security         █████████████████░░░
-Cloud Security         ███████████████░░░░░
-IoT Security           █████████████░░░░░░░
-SOC / SIEM             ███████████░░░░░░░░░
-Digital Forensics      ███████████░░░░░░░░░
+Networking               █████████████████░░░
+Linux Security           █████████████████░░░
+Cloud Security           ███████████████░░░░░
+IoT Security             █████████████░░░░░░
+SOC / SIEM               ███████████░░░░░░░░
+Digital Forensics        ███████████░░░░░░░░
 ```
 
 ---
@@ -121,6 +132,7 @@ Digital Forensics      ███████████░░░░░░░░
 [+] IoT Security
 [+] Security Monitoring
 [+] Digital Forensics
+[+] Linux Security
 ```
 
 ---
@@ -133,19 +145,32 @@ Digital Forensics      ███████████░░░░░░░░
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananthuksanthosh&show_icons=true&theme=github_dark&hide_border=true" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthuksanthosh&theme=github-dark&hide_border=true" height="170">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ananthuksanthosh&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true"
+    alt="Ananthu's GitHub Stats"
+    height="180"
+  />
+
+<img
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthuksanthosh&layout=compact&theme=github_dark&hide_border=true"
+ alt="Ananthu's Top Languages"
+ height="180"
+/>
+
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ananthuksanthosh/ananthuksanthosh/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
+  <img
+    src="https://streak-stats.demolab.com?user=ananthuksanthosh&theme=github-dark&hide_border=true"
+    alt="Ananthu's GitHub Streak"
+  />
 </p>
 
 ---
@@ -153,16 +178,29 @@ Digital Forensics      ███████████░░░░░░░░
 ## 🤝 Connect With Me
 
 <p align="center">
+
   <a href="https://github.com/ananthuksanthosh">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
+
   <a href="https://www.linkedin.com/in/ananthu-k-santhosh">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+
 </p>
+
+---
+
+## 🐍 Contribution Activity
+
+> Contribution Snake will be enabled through GitHub Actions.
 
 ---
 
 <p align="center">
   <b>Learning • Building • Securing 🔐</b>
+</p>
+
+<p align="center">
+  <sub>Cybersecurity is not just about breaking systems — it's about understanding how to protect them.</sub>
 </p>
